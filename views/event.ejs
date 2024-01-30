@@ -1,0 +1,55 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/public/event.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  </head>
+  <body>
+          <!-- For more features use the AutoHTML plugin window in figma ... --> 
+    <div class="event-interface" >
+      <div class="navigation-booking-filter" >
+          <div class="body-filter" >
+          </div>
+      </div>
+      <div class="line-33" >
+      </div>
+        <form action="/save/event" method="post"> 
+          <input type = "text" name = "title" class="div9" placeholder="할 일을 입력해주세요">
+          <input type="hidden" name="userid" value="<%= user %>">
+          <button type = "submit" class="plus">+</button>
+        </form>
+        
+    </div>
+    <!-- For more features use the AutoHTML plugin window in figma ... --> 
+    <div class="group-84">
+      <div class="group-81">
+        <div class="div1"><%= events && events.length > 0 && events[0] && events[0].EventName ? events[0].EventName : "" %></div>
+        <div class="rectangle-47"></div>
+      </div>
+      <div class="group-83">
+        <div class="div3"><%= events && events.length > 1 && events[1] && events[1].EventName ? events[1].EventName : "" %></div>
+        <div class="rectangle-49"></div>
+      </div>
+      <div class="group-82">
+        <div class="div2"><%= events && events.length > 2 && events[2] && events[2].EventName ? events[2].EventName : "" %></div>
+        <div class="rectangle-48"></div>
+      </div>
+    </div>
+</div>
+
+<script>
+
+  /*$(document).ready(function() {
+    $('.plus').click(function() {
+        // 입력창 비우기
+        $('.div9').val('');
+      })
+    });*/
+</script>
+ 
+  </body>
+</html>
+
