@@ -1,0 +1,200 @@
+.event-interface, .event-interface * {
+    box-sizing: border-box;
+    }
+.event-interface {
+    position: absolute;
+    inset: 0;
+    }
+
+ .navigation-booking-filter {
+    background: radial-gradient(closest-side, rgba(223, 244, 189, 1.00) 0%,rgba(250, 255, 232, 1.00) 91.66666865348816%);
+    border-radius: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    height: 383px;
+    position: absolute;
+    right: 1px;
+    left: 4px;
+    bottom: 114px;
+    box-shadow:  2px -2px 17px 0px rgba(0, 0, 0, 0.16);
+    overflow: hidden;
+    backdrop-filter: blur(12px);
+    }
+
+ .body-filter {
+    padding: 0px 16px 0px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    overflow-y: auto;
+    }
+
+ .line-33 {
+    border-style: solid;
+    border-color: #acacac;
+    border-width: 1px 0 0 0;
+    width: 296px;
+    height: 0px;
+    position: absolute;
+    left: 113px;
+    top: 997px;
+    }
+
+ .plus {
+    color: #6c4e00;
+    text-align: left;
+    font-family: 'Pretendard-Regular', sans-serif;
+    font-size: 37px;
+    line-height: 133.9%;
+    font-weight: 400;
+    position: absolute;
+    left: 65px;
+    top: 943px;
+    width: 39px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    outline: none;
+    border: none;
+    background: transparent; /* 배경을 투명으로 설정 */
+    z-index: 2000;
+   }
+
+    .div9 {
+      color: #222222;
+      text-align: left;
+      font-family: 'Pretendard-SemiBold', sans-serif;
+      font-size: 22px;
+      line-height: 133.9%;
+      font-weight: 600;
+      position: absolute;
+      left: 113px;
+      top: 959px;
+      width: 320px;
+      height: 39px;
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      border: none;
+      outline: none;
+      background: transparent; /* 배경을 투명으로 설정 */
+      z-index: 2000;
+   }
+
+   .group-84, .group-84 * {
+      box-sizing: border-box;
+      }
+  .group-84 {
+      position: absolute;
+      inset: 0;
+      }
+  
+   .group-81 {
+      width: 314px;
+      height: 39px;
+      position: static;
+      }
+  
+   .div1 {
+      color: #222222;
+      text-align: left;
+      font-family: 'Pretendard-SemiBold', sans-serif;
+      font-size: 20px;
+      line-height: 133.9%;
+      font-weight: 600;
+      position: absolute;
+      left: 124px;
+      top: 751px;
+      width: 247px;
+      height: 39px;
+      display: flex;
+      align-items: center;
+      justify-content: flex-start}
+  
+   .rectangle-47 {
+      background: #ffffff;
+      border-radius: 10px;
+      width: 39px;
+      height: 39px;
+      position: absolute;
+      right: 454px;
+      top: 751px;
+      box-shadow:  0px 0px 4px 0px rgba(0, 0, 0, 0.40);
+      }
+  
+   .group-83 {
+      width: 387px;
+      height: 39px;
+      position: static;
+      }
+  
+   .div2 {
+      color: #222222;
+      text-align: left;
+      font-family: 'Pretendard-SemiBold', sans-serif;
+      font-size: 20px;
+      line-height: 133.9%;
+      font-weight: 600;
+      position: absolute;
+      left: 124px;
+      top: 891px;
+      width: 320px;
+      height: 39px;
+      display: flex;
+      align-items: center;
+      justify-content: flex-start}
+  
+   .rectangle-49 {
+      background: #ffffff;
+      border-radius: 10px;
+      width: 39px;
+      height: 39px;
+      position: absolute;
+      right: 454px;
+      top: 891px;
+      box-shadow:  0px 0px 4px 0px rgba(0, 0, 0, 0.40);
+      }
+  
+   .group-82 {
+      width: 314px;
+      height: 39px;
+      position: static;
+      }
+  
+   .div3 {
+      color: #222222;
+      text-align: left;
+      font-family: 'Pretendard-SemiBold', sans-serif;
+      font-size: 20px;
+      line-height: 133.9%;
+      font-weight: 600;
+      position: absolute;
+      left: 124px;
+      top: 821px;
+      width: 247px;
+      height: 39px;
+      display: flex;
+      align-items: center;
+      justify-content: flex-start}
+  
+   .rectangle-48 {
+      background: #ffffff;
+      border-radius: 10px;
+      width: 39px;
+      height: 39px;
+      position: absolute;
+      right: 454px;
+      top: 821px;
+      box-shadow:  0px 0px 4px 0px rgba(0, 0, 0, 0.40);
+      }
+  
+  
