@@ -1,0 +1,329 @@
+.slide-16-9-1, .slide-16-9-1 * {
+   box-sizing: border-box;
+   }
+.slide-16-9-1 {
+   background: #ffffff;
+   width: 1920px;
+   height: 1080px;
+   position: relative;
+   overflow: hidden;
+   }
+
+.dribbble-shot-5 {
+   background: linear-gradient(100.69deg, rgba(255, 234, 109, 1.00) 25.803402066230774%,rgba(255, 247, 247, 1.00) 100%);
+   width: 1920px;
+   height: 1080px;
+   position: absolute;
+   left: 0px;
+   top: 0px;
+   overflow: hidden;
+   }
+
+.ellipse-12 {
+   border-radius: 50%;
+   border-style: solid;
+   border-color: rgba(255, 255, 255, 0.65);
+   border-width: 2px;
+   width: 751px;
+   height: 750px;
+   position: absolute;
+   left: 1088px;
+   top: 193px;
+   }
+
+.ellipse-13 {
+   border-radius: 50%;
+   border-style: solid;
+   border-color: rgba(255, 255, 255, 0.63);
+   border-width: 2px;
+   width: 750px;
+   height: 750px;
+   position: absolute;
+   left: -28px;
+   top: 40px;
+   }
+
+.rectangle-8 {
+   background: linear-gradient(-89.69deg, rgba(252, 229, 107, 1.00) 0%,rgba(255, 255, 255, 0.00) 100%);
+   border-radius: 16px;
+   width: 1169.62px;
+   height: 207.65px;
+   position: absolute;
+   left: 561.77px;
+   top: 169.03px;
+   transform-origin: 0 0;
+   transform: rotate(-20deg) scale(1, 1);
+   }
+
+.rectangle-9 {
+   background: linear-gradient(-89.69deg, rgba(252, 229, 107, 1.00) 0%,rgba(255, 255, 255, 0.00) 100%);
+   border-radius: 16px;
+   width: 934.33px;
+   height: 207.65px;
+   position: absolute;
+   left: 566.81px;
+   top: 429.46px;
+   transform-origin: 0 0;
+   transform: rotate(-20deg) scale(1, 1);
+   }
+
+.rectangle-10 {
+   background: linear-gradient(-89.69deg, rgba(252, 229, 107, 1.00) 0%,rgba(255, 255, 255, 0.00) 100%);
+   border-radius: 16px;
+   width: 602.14px;
+   height: 207.65px;
+   position: absolute;
+   left: 1311.01px;
+   top: 573.52px;
+   transform-origin: 0 0;
+   transform: rotate(-20deg) scale(1, 1);
+   }
+
+.rectangle-11 {
+   background: linear-gradient(260.35deg, rgba(252, 229, 107, 1.00) 0%,rgba(234, 101, 87, 0.00) 100%);
+   border-radius: 16px;
+   width: 779.27px;
+   height: 207.65px;
+   position: absolute;
+   left: 1074.04px;
+   top: 800.37px;
+   transform-origin: 0 0;
+   transform: rotate(-20deg) scale(1, 1);
+   }
+
+.group-3 {
+   position: absolute;
+   inset: 0;
+   }
+
+.detail-resto-page {
+   border-radius: 8px;
+   width: 307.26px;
+   height: 665.32px;
+   position: absolute;
+   left: 1631.34px;
+   top: 496.8px;
+   transform-origin: 0 0;
+   transform: rotate(0deg) scale(1, 1);
+   object-fit: cover;
+   }
+
+.rectangle-7 {
+   background: rgba(107, 0, 2, 0.00);
+   border-radius: 40px;
+   width: 313.69px;
+   height: 665.1px;
+   position: absolute;
+   left: 1343.33px;
+   top: 384.72px;
+   transform-origin: 0 0;
+   transform: rotate(0deg) scale(1, 1);
+   filter: blur(28px);
+   }
+
+.rectangle-5 {
+   background: rgba(232, 76, 79, 0.32);
+   border-radius: 40px;
+   width: 161.13px;
+   height: 612.22px;
+   position: absolute;
+   left: 1444.2px;
+   top: 373.1px;
+   transform-origin: 0 0;
+   transform: rotate(0deg) scale(1, 1);
+   filter: blur(28px);
+   }
+
+.promo-page-v {
+   border-radius: 8px;
+   width: 307.26px;
+   height: 665.32px;
+   position: absolute;
+   left: 898.49px;
+   top: 834.68px;
+   transform-origin: 0 0;
+   transform: rotate(0deg) scale(1, 1);
+   object-fit: cover;
+   }
+
+.checkout-page {
+   border-radius: 8px;
+   width: 307.26px;
+   height: 665.32px;
+   position: absolute;
+   left: 1271.61px;
+   top: 350.46px;
+   transform-origin: 0 0;
+   transform: rotate(0deg) scale(1, 1);
+   object-fit: cover;
+   }
+
+.rectangle-4 {
+   background: rgba(161, 0, 3, 0.16);
+   border-radius: 40px;
+   width: 366.38px;
+   height: 665.32px;
+   position: absolute;
+   left: 935.85px;
+   top: 222.5px;
+   transform-origin: 0 0;
+   transform: rotate(0deg) scale(1, 1);
+   filter: blur(28px);
+   }
+
+.rectangle-6 {
+   background: rgba(134, 51, 11, 0.40);
+   border-radius: 40px;
+   width: 320.55px;
+   height: 665.1px;
+   position: absolute;
+   left: 599.38px;
+   top: 533.85px;
+   transform-origin: 0 0;
+   transform: rotate(0deg) scale(1, 1);
+   filter: blur(28px);
+   }
+
+.success-page-v-2-1 {
+   border-radius: 8px;
+   width: 307.26px;
+   height: 665.33px;
+   position: absolute;
+   left: 527.39px;
+   top: 441.28px;
+   transform-origin: 0 0;
+   transform: rotate(0deg) scale(1, 1);
+   object-fit: cover;
+   }
+
+.image-1 {
+   width: 305px;
+   height: 661px;
+   position: absolute;
+   left: 903px;
+   top: 108px;
+   object-fit: cover;
+   }
+
+.ellipse-1 {
+   background: rgba(255, 255, 255, 0.80);
+   border-radius: 50%;
+   width: 13px;
+   height: 13px;
+   position: absolute;
+   left: 649px;
+   top: 111px;
+   }
+
+.ellipse-2 {
+   background: #ffcbcc;
+   border-radius: 50%;
+   width: 13px;
+   height: 13px;
+   position: absolute;
+   left: 1599px;
+   top: 347px;
+   }
+
+.ellipse-9 {
+   background: #ffcbcc;
+   border-radius: 50%;
+   width: 13px;
+   height: 13px;
+   position: absolute;
+   left: 1698px;
+   top: 44px;
+   }
+
+.ellipse-5 {
+   background: #ffead0;
+   border-radius: 50%;
+   width: 14px;
+   height: 14px;
+   position: absolute;
+   left: 1266px;
+   top: 78px;
+   }
+
+._1-9 {
+   width: 338px;
+   height: 338px;
+   position: absolute;
+   left: 124px;
+   top: 246px;
+   object-fit: cover;
+   }
+
+.div {
+   color: #000000;
+   text-align: center;
+   font-family: 'Pretendard-SemiBold', sans-serif;
+   font-size: 70px;
+   line-height: 98px;
+   font-weight: 600;
+   position: absolute;
+   left: 73px;
+   top: 746px;
+   }
+
+.div2 {
+   color: #000000;
+   text-align: right;
+   font-family: 'Pretendard-SemiBold', sans-serif;
+   font-size: 42px;
+   line-height: 52px;
+   font-weight: 600;
+   position: absolute;
+   left: 52px;
+   top: 613px;
+   }
+
+.ellipse-4 {
+   background: #44b4f3;
+   border-radius: 50%;
+   width: 45px;
+   height: 45px;
+   position: absolute;
+   left: 431px;
+   top: 163px;
+   box-shadow:  0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+   }
+
+.saly-13 {
+   width: 172px;
+   height: 77px;
+   position: absolute;
+   left: 134px;
+   top: 131px;
+   object-fit: cover;
+   }
+
+.saly-132 {
+   width: 67px;
+   height: 77px;
+   position: absolute;
+   left: 14px;
+   top: 324px;
+   object-fit: cover;
+   }
+
+.saly-133 {
+   width: 78px;
+   height: 105px;
+   position: absolute;
+   left: 511px;
+   top: 324px;
+   object-fit: cover;
+   }
+
+.polygon-2 {
+   border-radius: 0px;
+   width: 65.45px;
+   height: 57.56px;
+   position: absolute;
+   left: 649.64px;
+   top: 185px;
+   transform: translate(-50.96px, 19.8px);
+   overflow: visible;
+   }
+

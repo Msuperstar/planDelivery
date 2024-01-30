@@ -1,0 +1,219 @@
+._0, ._0 * {
+    box-sizing: border-box;
+    }
+._0 {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 1.00) 0%,rgba(255, 248, 210, 1.00) 94.49999928474426%);
+    border-radius: 32px;
+    width: 550px;
+    height: 1192px;
+    position: relative;
+    overflow: hidden;
+    }
+
+
+ .div {
+    width: 554px;
+    height: 836px;
+    position: absolute;
+    left: -2px;
+    top: 356px;
+    overflow: visible;
+    }
+
+ .div2 {
+    position: absolute;
+    inset: 0;
+    z-index: 2000;
+    }
+
+ .rectangle-173 {
+   position: absolute;
+   right: 6.36%;
+   left: 7.45%;
+   bottom: 29.12%;
+   top: 64.15%;
+   height: 6.73%;
+   background: var(--dark, #1e232c);
+   border-radius: 8px;
+   cursor: pointer;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+   /* 텍스트 스타일 */
+   color: var(--white, #ffffff);
+   text-align: center;
+   font-family: 'Pretendard-SemiBold', sans-serif;
+   font-size: 21px;
+   font-weight: 600;
+
+   z-index: 4000;
+    
+   }
+
+
+ .rectangle-4 {
+    background: #f7f8f9;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: var(--border, #e8ecf4);
+    border-width: 1px;
+    width: 474px;
+    height: 80.19px;
+    position: absolute;
+    left: 41px;
+    top: 595.67px;
+    color: var(--gray, #8391a1);
+    text-align: left;
+    font-family: 'Pretendard-Medium', sans-serif;
+    font-size: 21px;
+    line-height: 125%;
+    font-weight: 500;
+    position: absolute;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start
+    }
+
+ .fluent-eye-20-filled {
+    width: 31.5px;
+    height: 31.5px;
+    position: absolute;
+    left: 460.58px;
+    top: 620.02px;
+    overflow: hidden;
+    z-index: 3000;
+    }
+
+ .group {
+    height: auto;
+    position: absolute;
+    right: 10%;
+    left: 10%;
+    width: 80%;
+    bottom: 24.13%;
+    top: 24.13%;
+    height: 51.74%;
+    overflow: visible;
+    }
+
+
+
+ .rectangle-42 {
+    background: #f7f8f9;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: var(--border, #e8ecf4);
+    border-width: 1px;
+    width: 474px;
+    height: 80.19px;
+    position: absolute;
+    left: 41px;
+    top: 494px;
+    color: var(--gray, #8391a1);
+      text-align: left;
+      font-family: 'Pretendard-Medium', sans-serif;
+      font-size: 21px;
+      line-height: 125%;
+      font-weight: 500;
+      position: absolute;
+      display: flex;
+      align-items: flex-end;
+      justify-content: flex-start
+    }
+
+    .rectangle-4 {
+      background: #f7f8f9;
+      border-radius: 8px;
+      border-style: solid;
+      border-color: var(--border, #e8ecf4);
+      border-width: 1px;
+      width: 474px;
+      height: 80.19px;
+      position: absolute;
+      left: 41px;
+      top: 595.67px;
+      color: var(--gray, #8391a1);
+      text-align: left;
+      font-family: 'Pretendard-Medium', sans-serif;
+      font-size: 21px;
+      line-height: 125%;
+      font-weight: 500;
+      position: absolute;
+      display: flex;
+      align-items: flex-end;
+      justify-content: flex-start
+      }
+
+
+
+
+
+ .div5 {
+    color: var(--gray, #8391a1);
+    text-align: left;
+    font-family: 'Pretendard-Medium', sans-serif;
+    font-size: 21px;
+    line-height: 125%;
+    font-weight: 500;
+    position: absolute;
+    left: 66.78px;
+    top: 519.78px;
+    width: 154.66px;
+    height: 27.21px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start}
+
+ .div6 {
+    color: #343434;
+    text-align: left;
+    font-family: 'AppleSdGothicNeo-Light', sans-serif;
+    font-size: 20px;
+    line-height: 150%;
+    font-weight: 300;
+    text-decoration: underline;
+    position: absolute;
+    left: calc(50% - 52px);
+    top: 1017px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    z-index:3000;
+   }
+
+ .plan-delevery {
+    color: #000000;
+    text-align: left;
+    font-family: 'Pretendard-SemiBold', sans-serif;
+    font-size: 50px;
+    line-height: 61px;
+    font-weight: 600;
+    position: absolute;
+    left: 51px;
+    top: 106px;
+    }
+
+ .div7 {
+    color: #000000;
+    text-align: right;
+    font-family: 'Pretendard-Medium', sans-serif;
+    font-size: 30px;
+    line-height: 50px;
+    font-weight: 500;
+    position: absolute;
+    left: 51px;
+    top: 248px;
+    }
+
+   ._1-9 {
+      width: 136px;
+      height: 136px;
+      position: absolute;
+      left: 371px;
+      top: 96px;
+      object-fit: cover;
+      }
+   
+   
+
